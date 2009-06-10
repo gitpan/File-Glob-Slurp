@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               File-Glob-Slurp
-version:            0.01
-abstract:           The great new File::Glob::Slurp!
+version:            0.02
+abstract:           Turns <> into a slurp operator
 author:
     - Dan Kogai <dankogai@dan.co.jp>
 license:            perl
